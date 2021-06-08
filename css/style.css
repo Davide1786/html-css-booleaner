@@ -76,7 +76,37 @@ td{
 
 /* fine parte centrale */
 
+/* inizio parte finale */
+h3{
+   color: #808080;
+   margin-top: 30px;
+}
 
+.monitor {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+    padding: 10px;
+  }
+
+  .graph {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+    padding: 10px;
+  }
+
+
+
+/* fine parte finale */
 
 
 
