@@ -2,7 +2,7 @@ body{
     width: 60%;
     margin: 0 auto;
 }
-
+/* parte superiore */
 .pattern{
     background-image: url(../img/pattern.png);
     height: 120px;
@@ -37,3 +37,21 @@ h1{
     color: #4ea0ff;
     font-size: 15px;
 }
+/* fine parte superiore */
+
+/* inizio parte centrale */
+
+.foto{
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.evidenziata{
+    background-color: yellow;
+}
+
+ul li{
+    margin-left: -20px;
+}
+
+/* fine parte centrale */
