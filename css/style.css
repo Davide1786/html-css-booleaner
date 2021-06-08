@@ -4,11 +4,36 @@ body{
 }
 
 .pattern{
-    background-image: url(/img/pattern.png);
-
-}
+    background-image: url(../img/pattern.png);
+    height: 120px;
+    background-repeat: repeat;
+    background-size: 40%;
+    background-color: #4ea0ff;
+    }
 
 #logo{
-
+    width: 40%;
+    height: 40%;
+    margin: 60px 0px 0px -120px;
 }
 
+h1{
+    font-size: 43px;
+    margin-top: 12px;
+}
+
+.firma{
+    margin-top: -30px;
+    color: #808080;
+    font-size: 12px;
+}
+
+.scritto{
+    color: #808080;
+    font-size: 15px;
+}
+
+.proprietario{
+    color: #4ea0ff;
+    font-size: 15px;
+}
